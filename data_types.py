@@ -14,4 +14,9 @@ first_digit = two_digit_number[0]
 second_digit = two_digit_number[1]
 
 #transfor the string into integer, add it up and print it
-print(int(first_digit) + int(second_digit))
+# print(int(first_digit) + int(second_digit))
+
+#in addition, you can add another variable for result
+
+result = int(first_digit) + int(second_digit)
+print(result)
