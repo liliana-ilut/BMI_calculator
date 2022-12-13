@@ -1,2 +1,2 @@
-# BMI_calculator
-Day 2 in 100 Days of Coding
+
+Day 2 in 100 Days of Coding in Python Project
